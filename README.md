@@ -11,7 +11,7 @@ Table of content
 - [Uses](https://github.com/IODevBlue/BannerX-Indicators/tree/main#uses)
 - [Installation](https://github.com/IODevBlue/BannerX-Indicators/tree/main#installation)
 - [Contributions](https://github.com/IODevBlue/BannerX-Indicators/tree/main#contributions)
-- [Change log](https://github.com/IODevBlue/BannerX-Indicators/tree/main#change-log)
+- [Changelog](https://github.com/IODevBlue/BannerX-Indicators/tree/main#changelog)
 - [License](https://github.com/IODevBlue/BannerX-Indicators/tree/main#license)
 
 
